@@ -1,0 +1,230 @@
+﻿  .theme-dark .children-19S4PO:after {
+      background: none;
+  }
+  .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
+      background-color: rgba(0, 0, 0, .33);  // profile basinca bir yer açılıyor o yer rengi
+      color: #fff;
+  }
+
+  .theme-dark .layer-3QrUeG,
+  .sidebar-2K8pFh,
+  .scroller-305q3I,
+  .scroller-9moviB {
+      background: transparent;
+  }
+
+  .theme-dark .contentRegion-3nDuYy,
+  .contentRegionScroller-26nc1e,
+  .theme-dark .sidebarRegion-VFTUkN,
+  .sidebarRegionScroller-3MXcoP {
+   background-color: rgba(0, 0, 0, 0.607);     // ayarlar arka plan rengi
+  }
+
+  .header-2RyJ0Y,
+  .theme-dark #bd-settings-sidebar .ui-tab-bar-header {
+      font-size: 17px;
+      font-weight: 600;
+      text-transform: capitalize;
+      color: #e8e8e8;
+      font-family: Comic Sans MS, cursive	;
+  }
+
+  .theme-dark #bd-settings-sidebar .ui-tab-bar-separator,
+  .separator-gCa7yv {
+        background-color: transparent;
+  }
+
+  .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ,
+  .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
+      background-color: rgba(224, 141, 141, 0.273) !important; //ayarlar seçenek üstü hangi renk
+  }
+
+  .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover,
+  .theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover {
+      background-color: rgba(224, 141, 141, 0.0997);       //ayarlar seçenekte hangi renk
+  }
+
+  .side-8zPYf6 .item-PXvHYJ,
+  #bd-settings-sidebar .ui-tab-bar-item {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 5px;
+    color: #e8e8e8;
+    font-family: Comic Sans MS, cursive	;
+  }
+
+  .cardPrimary-1Hv-to,
+  .cardPrimaryEditable-3KtE4g {
+      border-color: #800000;       //hesap kart etrafı hangi renk
+  }
+
+  .cardPrimary-1Hv-to {
+      background: rgba(224, 141, 141, 0.345); //hesap arkaplan
+  }
+
+  .h5-18_1nd,
+  .theme-dark .keybind-KpFkfr {
+      color: white;  //kullanıcı adı e posta yeri
+  }
+
+  .theme-dark .viewBody-2Qz-jg {
+      color: #ff0000;
+      text-shadow: 0 0 12px black,0 0 12px black,0 0 12px black;
+  }
+
+  .theme-dark .closeButton-1tv5uR {
+      border: 2px solid #ff0000;    //çıkma tuşu rengi
+  }
+
+  .theme-dark .closeButton-1tv5uR:hover {
+      background-color: rgba(224, 141, 141, 0.37); //çıkma tuşu içi rengi
+  }
+
+  .lookOutlined-3sRXeN.colorBrand-3pXr91 {
+      color: white;
+      border-color: rgba(255, 0, 0) !important;  //gizlik veri iste çevresi
+  }
+
+  .lookFilled-1Gx00P.colorBrand-3pXr91,
+  .lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
+      color: #fff;
+      background-color: rgba(224, 141, 141, 0.137);
+      border: 2px solid rgba(224, 141, 141, 0.237);       //düzenle ve iki aşama şeyi
+  }
+
+      .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+          background-color: rgba(224, 141, 141, 0.437);  //düzenle imleçle içi
+      }
+
+  .theme-dark .avatarUploader-3XDtmn .removeButton-1hcZyG {
+      color: white !important;                  //avatar kaldır yazan yer
+  }
+
+
+  .input-cIJ7To:focus {
+      border-color: #540000 !important;  //gmail yazanın çevresi
+      background-color: rgba(0,0,0,.4); // ad yazan yerin arka planı
+  }
+
+  .input-cIJ7To.focused-1mmYsC {
+      border-color: transparent !important;  //ad yazan çevresi
+  }
+
+  .input-cIJ7To {
+      border-radius: 10px;
+      color: white;
+      background-color: rgba(0,0,0,.2);
+      border: 0.9px dashed transparent;      
+  }
+
+  .input-cIJ7To:hover {
+      border-color: transparent;
+      background-color: rgba(0,0,0,.3);
+  }
+  
+  .theme-dark .multiInputLast-1aQ3YA:before {
+      border-right-color: transparent;
+  }
+
+  .theme-dark .inputPrefix-2VAOGg {
+      opacity: 1;
+      color: white;
+  }
+
+  .divider-3573oO {
+      background-color: transparent;
+  }
+
+  .lookFilled-1Gx00P.colorGreen-29iAKY {
+      color: #fff;
+      background-color: #633333;         //kaydet kısmı renk
+  }
+
+  .lookFilled-1Gx00P.colorGreen-29iAKY:hover {
+      background-color: #4f2c2c;     //kaydet üste imleçle gel rengi
+  }
+
+  .lookOutlined-3sRXeN.colorGreen-29iAKY {
+      color: red;
+      border-color: #633333;            //??
+  }
+
+  .lookFilled-1Gx00P.colorRed-1TFJan {
+      background-color: rgba(215, 35, 35, 0.55);
+  }                                      //??
+
+  .lookFilled-1Gx00P.colorRed-1TFJan:hover {
+      background-color: rgba(215, 35, 35, 0.81); //??
+  }
+
+  .side-8zPYf6 .item-PXvHYJ[style*="color: rgb(240, 71, 71);"] {
+      color: white !important;
+      background-color: rgb(215, 35, 35) !important;        //çıkış yap rengi
+  }
+
+  .lookOutlined-3sRXeN.colorRed-1TFJan {
+      color: white !important;
+      border-color: rgba(215, 35, 35, 0.441);
+      background-color: rgba(215, 35, 35, 0.174); //hesabı sil hesabı devre dışı bırak yeri 
+  }
+
+  .lookOutlined-3sRXeN.colorRed-1TFJan:hover {
+      border-color: rgba(215, 35, 35, 0.719);         //hesabı sil hesabı devre dışı bırak yeri çevresi
+  }
+
+  .theme-dark .addGamePopout-2RY8Ju {
+      background-color: #212121;        //oyun etkinliği ekle 
+  }
+
+  .theme-dark .lastPlayed-3bQ7Bo,
+  .theme-dark .overlayStatusText-L2IACa {
+      color: silver;       //en son oynan oyun yazısı
+  }
+
+    .theme-dark .elevationBorderHigh-2WYJ09,
+    .theme-dark .game-1ipmAa {
+        box-shadow: none;
+    }
+
+    .theme-dark .nowPlaying-284llR {
+        background-color: rgba(255, 94, 94, 0.3);     //oynuyor kısmı arkaplan rengi 
+    }
+
+  .theme-dark .gameName-1RiWHm,
+  .theme-dark .nowPlaying-284llR .gameName-1RiWHm,
+  .theme-dark .clearIcon-2N9YIn,
+  .theme-dark .searchIcon-1a1-yA,
+  .theme-dark .fontScaleLarge-3xtq7i,
+  .theme-dark .fontScaleSmall-368quy,
+  .theme-dark .markValue-2DwdXI {
+      color: white;
+  }
+
+  .theme-dark .markDash-3hAolZ {
+      background: white;
+  }
+
+  .defaultValue-3gC7yw .markValue-2DwdXI {
+      color: #43b581 !important;      /görünüm erişebilik px
+  }
+
+  .after_inlineCode-1KfVgj,
+  .before_inlineCode-1G9rTK,
+  .inlineCode-2ngu6Y {
+    background: rgba(255,255,255, .1);
+    padding: 3px;
+  }
+  
+  .codeBlockSyntax-2i-tMA,
+  .syntaxAfter-hcA4AH,
+  .syntaxBefore-1YQ9lW {
+    color: white;
+  }
+
+  .wrapper-3D2qGf {
+      background-color: transparent;
+  }
+
+  .theme-dark .inset-3sAvek {
+      background-color: rgba(0, 0, 0, .36);
+  }
